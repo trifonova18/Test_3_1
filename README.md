@@ -1,1 +1,2 @@
-# Test_3_1
+# stepik_auto_tests_course
+https://stepik.org/course/575/syllabus
